@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppEstrela</string>
+    <string name="sign_in">Sign in</string>
+    <string name="user_name_e_mail_address">User name/e mail address</string>
+    <string name="password">Password</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="sign_in">Sign in</string>
+    <string name="download">DOWNLOAD</string>
+    <string name="owner">Owner:</string>
+    <string name="description">Description:</string>
+    <string name="lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_ut_interdum_enim_vitae_libero"><u>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut interdum enim vitae libero</u></string>
+    <string name="price"><u>Price</u> :</string>
+    <string name="image_id"><u>Image ID:</u></string>
+</resources>

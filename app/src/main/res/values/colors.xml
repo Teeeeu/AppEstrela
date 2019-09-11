@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D57064</color>
+    <color name="colorPrimaryDark">#D57064</color>
+    <color name="colorAccent">#D57064</color>
+    <color name="cordaCaixa">#F7A698</color>
+    <color name="font">#FFFFFF</color>
+
+</resources>
