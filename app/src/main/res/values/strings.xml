@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">AppEstrela</string>
-    <string name="sign_in">Sign in</string>
     <string name="user_name_e_mail_address">User name/e mail address</string>
     <string name="password">Password</string>
     <string name="create_a_new_account">Create a new account</string>

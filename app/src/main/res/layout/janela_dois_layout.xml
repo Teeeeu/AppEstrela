@@ -8,6 +8,13 @@
     android:orientation="vertical"
     tools:context=".JanelaDois_Activity">
 
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/ToolBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent" />
+
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -91,5 +98,11 @@
                 android:textSize="15sp" />
         </LinearLayout>
     </LinearLayout>
-
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="10dp"
+        android:elevation="4dp"
+        
 </LinearLayout>
